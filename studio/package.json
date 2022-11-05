@@ -4,7 +4,7 @@
   "version": "1.0.7",
   "description": "",
   "main": "package.json",
-  "author": "ElegantStack <elegantstack.studio@gmail.com>",
+  "author": "Lennon Dias <lennonalvesdias@gmail.com>",
   "license": "UNLICENSED",
   "scripts": {
     "start": "sanity start",
